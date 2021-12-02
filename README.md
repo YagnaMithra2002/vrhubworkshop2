@@ -21,16 +21,23 @@
  
  [SAMSUNG](https://www.samsung.com/in/offer/online/samsung-fest/)
  
- [
+ [MI](https://www.mi.com/global/list/)
+ 
+ [HUAWEI](https://www.huawei.com/en/)
+ 
   ![APPLE](https://i.ytimg.com/vi/KR0g-1hnQPA/maxresdefault.jpg)
   
-  
- ![SAMSUNG](https://bsmedia.business-standard.com/_media/bs/img/about-page/1562575696.png)
+   ![SAMSUNG](https://bsmedia.business-standard.com/_media/bs/img/about-page/1562575696.png)
+   
+   ![MI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9rtOjQHx-H974LOIJ12Mtt-E-F8roI3fgGw&usqp=CAU)
+   
+   ![HUAWEI](https://pbs.twimg.com/profile_images/1271080998567116800/0Sp-50EZ_400x400.png)
 
-SNO|MOVIENAME
-----|----
-1|AVENGERS ENDGAME
-2|IROMAN 1
-3|IRONMAN 2
+SNO|BRAND|NUMBER OF PIECES(IN MILLIONS)
+----|----|----
+1|APPLE| 206.1 
+2|SAMSUNG|54.2
+3|MI| 146.4 
+4|HUAWEI|65.82
 
-:smiling_face_with_three_hearts: :black_heart:
+:PHONE:
