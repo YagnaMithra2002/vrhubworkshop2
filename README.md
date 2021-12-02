@@ -19,7 +19,10 @@
   
  [APPLE](https://www.apple.com/in/?afid=p238%7Cs8Vs8GkTq-dc_mtid_187079nc38483_pcrid_554176376123_pgrid_112258962467_&cid=aos-IN-kwgo-brand--slid---product-)
  
-  ![AAPLE](https://i.ytimg.com/vi/KR0g-1hnQPA/maxresdefault.jpg)
+ [SAMSUNG](https://www.samsung.com/in/offer/online/samsung-fest/)
+ 
+ [
+  ![APPLE](https://i.ytimg.com/vi/KR0g-1hnQPA/maxresdefault.jpg)
   
   
  ![SAMSUNG](https://bsmedia.business-standard.com/_media/bs/img/about-page/1562575696.png)
